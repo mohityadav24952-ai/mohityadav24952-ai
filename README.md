@@ -263,10 +263,34 @@ An enterprise-grade specialized desktop application architected to manage heavy 
 ## 🐍 12. Contribution Snake Section
 
 <div align="center">
-  <img src="https://github.com/mohityadav24952-ai/mohityadav24952-ai/blob/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/mohityadav24952-ai/mohityadav24952-ai/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake" />
 </div>
 
-> ⚠️ Note: snake animation requires the `platane/snk` GitHub Action set up on your profile repo (`mohityadav24952-ai/mohityadav24952-ai`) so it commits to the `output` branch automatically.
+> ⚠️ Snake render karne ke liye tere `mohityadav24952-ai/mohityadav24952-ai` repo mein `platane/snk` GitHub Action workflow hona zaroori hai (jo `output` branch generate karta hai). Niche workflow code hai, `.github/workflows/snake.yml` mein daal de:
+>
+> ```yaml
+> name: generate snake
+> on:
+>   schedule:
+>     - cron: "0 */6 * * *"
+>   workflow_dispatch: {}
+>   push:
+>     branches: [ main ]
+> jobs:
+>   generate:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk@v3
+>         with:
+>           github_user_name: mohityadav24952-ai
+>           outputs: dist/github-contribution-grid-snake.svg
+>       - uses: crazy-max/ghaction-github-pages@v4
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
 
 ---
 
