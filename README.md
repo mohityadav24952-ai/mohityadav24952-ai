@@ -1,15 +1,15 @@
 <div align="center">
 
 <!-- 1. Animated Header Section -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=10,13,24,30&height=280&section=header&text=SOFTWARE%20%26%20AI%20ENGINEER&fontSize=42&fontColor=8A2BE2&animation=twinkling" width="100%" alt="Capsule Render Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=10,13,24,30&height=280&section=header&text=SOFTWARE%20ENGINEER&fontSize=42&fontColor=8A2BE2&animation=twinkling" width="100%" alt="Capsule Render Banner"/>
 
 # ⚡ WELCOME TO MY DEVELOPMENT MATRIX ⚡
 
 ```sh
-🚀 Exploring the boundaries of Full-Stack Engineering, Distributed Architectures, and Applied AI.
+🚀 Exploring the boundaries of Full-Stack Engineering & Distributed Architectures.
 ```
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%2F+ML+Engineer;Performance+Optimization+Enthusiast;Problem+Solver" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Backend+Systems+Engineer;Performance+Optimization+Enthusiast;Problem+Solver" alt="Typing SVG" /></a>
 
 ---
 
@@ -19,7 +19,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit-kumar-yadav)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohityadav24952@gmail.com)
-[![GitHub Profile Views](https://img.shields.io/visitor-badge/v1?page_id=mohityadav24952-ai.github-profile&color=7B2CBF&style=flat-square)](https://github.com/mohityadav24952-ai)
 
 [![Followers](https://img.shields.io/github/followers/mohityadav24952-ai?label=Followers&style=flat-square&color=5A189A)](https://github.com/mohityadav24952-ai)
 [![Stars](https://img.shields.io/github/stars/mohityadav24952-ai?label=Total%20Stars&style=flat-square&color=7B2CBF)](https://github.com/mohityadav24952-ai)
@@ -33,12 +32,12 @@
 A meticulous and metrics-driven **Software Engineer** specializing in highly scalable distributed architectures, complex database management systems, and high-performance full-stack web applications. Deeply analytical with an advanced background in algorithmic analysis and systems design, focusing on creating product-centric solutions backed by scalable engineering models. Pursuing high-impact engineering execution with enterprise-grade modular designs, continuous optimization, and modern software design principles.
 
 * 🚀 **Core Focus**: Distributed Microservices, High-Performance Systems, Complex Web IDE Implementations.
-* 🧠 **AI/ML Integration**: Local execution models (Ollama LLMs), Applied Deep Learning Agents.
 * ⚙️ **System Design Mindset**: Data structure mastery, robust security integrations, and seamless user experiences.
+* 🧩 **Engineering Depth**: Strong fundamentals in scalable backend design and clean architecture patterns.
 
 ```yaml
 💡 Open To:
-   - Senior-level technical roles & high-performance developer pods
+   - Software Engineer roles & high-performance developer pods
    - Complex full-stack core development & distributed computing engineering
    - Open-source infrastructure initiatives & enterprise collaborations
 ```
@@ -49,7 +48,7 @@ A meticulous and metrics-driven **Software Engineer** specializing in highly sca
 
 ### 💻 Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,nextjs,react,nodejs,express" alt="Languages & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=html,css,ts,js,python,java,cpp,nextjs,react,nodejs,express" alt="Languages & Frameworks" />
 </p>
 
 ### 🗄️ Backend, Databases & State Management
@@ -59,27 +58,26 @@ A meticulous and metrics-driven **Software Engineer** specializing in highly sca
 
 ### ☁️ Cloud, DevOps & Engineering Tooling
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode" alt="Cloud & Tooling" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,git,github,vscode" alt="Cloud & Tooling" />
 </p>
 
-> **Extended Tooling & Skill Ecosystem**: Zustand | NeonDB | Drizzle ORM | Mongoose | TailwindCSS | ShadCN UI | API Handling | Tailwind CSS
+### 🧰 Extended Tooling & Skill Ecosystem
+<p align="left">
+  <img src="https://img.shields.io/badge/Zustand-433E38?style=flat-square&logo=react&logoColor=white" alt="Zustand"/>
+  <img src="https://img.shields.io/badge/NeonDB-00E599?style=flat-square&logo=postgresql&logoColor=white" alt="NeonDB"/>
+  <img src="https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black" alt="Drizzle ORM"/>
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" alt="Mongoose"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
+  <img src="https://img.shields.io/badge/ShadCN%20UI-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="ShadCN UI"/>
+  <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="API Handling"/>
+</p>
 
 ---
 
-## 🤖 4. AI/ML Expertise Section
-
-| Domain | Proficiency | Details |
-| :--- | :--- | :--- |
-| **Local LLM Orchestration** | Advanced Integration | Production configuration of local generative AI models using Ollama runtime modules inside isolated standard container architectures. |
-| **AI Agentic Frameworks** | Architectural Engineering | Designing and deploying programmatic workflows using LangChain to bridge stateful data processing with contextual AI processing models. |
-| **In-Browser ML Application**| Implementations | Client-side intelligent runtime implementations using TensorFlow.js for localized vector or contextual interactions within clean layouts. |
-
----
-
-## 📁 5. Featured Projects Section
+## 📁 4. Featured Projects Section
 
 <details>
-<summary><b>🚀 Vibecode Editor — AI-Powered Web IDE</b></summary>
+<summary><b>🚀 Vibecode Editor — Web IDE with Local AI Assistance</b></summary>
 <br>
 
 ### Project Description
@@ -91,13 +89,11 @@ A blazing-fast, ultra-optimized AI-integrated browser-based Integrated Developme
 | :--- | :--- | :--- | :--- |
 | **Core Workspace Stack** | Next.js 15 App Router, TypeScript, TailwindCSS, ShadCN UI | Static Generation strategies coupled with advanced state client caching configurations | Cryptographic NextAuth verification routing layers using active OAuth providers |
 | **Engine Compilation** | Native WebContainers Client Engine running multi-stack templates | Virtual ephemeral micro-containers operating directly via browser memory frames | Sandbox runtime memory segregation mechanisms preventing frame breakouts |
-| **AI Execution Engine** | Ollama Engine managing isolated code models through local runtimes | Client-brokered multiplexing requests pointing directly to Docker endpoints | Strictly offline runtime operations isolating structural code data exposure |
 | **Data & Terminal Interfaces**| Interactive xterm.js terminals interacting with MongoDB backend structures | Asynchronous data persistence optimization layered behind dedicated API paths | Sanitized environment variable configuration and robust connection parameters |
 
 ### Quantitative Business Impact
 * **Zero-Latency Compilations**: Eliminated network roundtrips completely by abstracting runtime pipelines directly inside browser sandboxes via WebContainers.
 * **Secure Infrastructure Cost-Reduction**: Cut server execution compute costs to $0 for multi-language compiling infrastructures by driving workloads client-side.
-* **Privacy-First AI Operations**: Kept intellectual code assets secure via local Ollama vector interfaces operating without standard third-party API dependencies.
 
 📦 **[Access Project Repository](https://github.com/mohityadav24952-ai/vibecode-editor)**
 </details>
@@ -166,19 +162,19 @@ An enterprise-grade specialized desktop application architected to manage heavy 
 
 ---
 
-## 💼 6. Experience Section
+## 💼 5. Experience Section
 
-#### 🎓 Software Engineer Intern / Academic Innovator
+#### 🎓 B.Tech Student & Project Engineering
 **Graphic Era Deemed to be University** | *July 2024 — 2028*
-* Engineered several distributed full-stack solutions utilizing Next.js architectures, modern state workflows, and robust relational data structures.
-* Spearheaded implementation architectures optimizing browser-level compilation systems, integrating modular AI services, and deploying local container systems.
+* Engineered several full-stack solutions utilizing Next.js architectures, modern state workflows, and robust relational data structures.
+* Built and shipped multiple production-style projects covering web IDEs, geospatial routing systems, and desktop applications.
 * Maintained a **9.0 / 10.0 CGPA** profile focusing heavily on advanced systems design, data analysis paradigms, and algorithmic efficiency models.
 
-> **Skills Leveraged**: Next.js | TypeScript | Applied LLM Architectures | Database Optimization | Linux Environments
+> **Skills Leveraged**: Next.js | TypeScript | Database Optimization | System Design | Linux Environments
 
 ---
 
-## 🏆 7. Achievements Section
+## 🏆 6. Achievements Section
 
 <div align="center">
 
@@ -192,22 +188,25 @@ An enterprise-grade specialized desktop application architected to manage heavy 
 
 ---
 
-## 📜 8. Certifications Section
+## 📜 7. Certifications Section
 
 ### ☁️ Amazon Web Services (AWS)
-* ![](https://img.shields.io/badge/AWS-Knowledge:_Networking_Core-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) Focus on complex routing configurations and enterprise-grade infrastructure architectures.
-* ![](https://img.shields.io/badge/AWS-Well--Architected_Proficient-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) Advanced understanding of highly secure, resilient, efficient, and cost-optimized system frameworks.
-* ![](https://img.shields.io/badge/AWS-Knowledge:_Cloud_Essentials-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) Deep alignment with foundational infrastructure operations and distributed scalability paths.
-* ![](https://img.shields.io/badge/AWS-Cloud_Practitioner_Essentials-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) Fundamental proficiency in secure, cloud-scale computing architectures.
-* ![](https://img.shields.io/badge/AWS-Artificial_Intelligence_Practitioner-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) Focus on enterprise-level generative model scaling, data curation, and secure machine learning pathways.
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-Knowledge:_Networking_Core-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Networking"/>
+  <img src="https://img.shields.io/badge/AWS-Well--Architected_Proficient-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Well-Architected"/>
+  <img src="https://img.shields.io/badge/AWS-Knowledge:_Cloud_Essentials-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Cloud Essentials"/>
+  <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner_Essentials-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Cloud Practitioner"/>
+</p>
 
 ### 💻 Elite Engineering Tracks
-* ![](https://img.shields.io/badge/Udemy-Python_Programming_Masterclass-007ACC?style=flat-square&logo=udemy&logoColor=white) Advanced functional logic paradigms, data ingestion systems, and architectural programming.
-* ![](https://img.shields.io/badge/Udemy-Web_Development_Bootcamp-007ACC?style=flat-square&logo=udemy&logoColor=white) Deep full-stack system implementation tracks covering complete distributed state workflows.
+<p align="left">
+  <img src="https://img.shields.io/badge/Udemy-Python_Programming_Masterclass-007ACC?style=flat-square&logo=udemy&logoColor=white" alt="Python Masterclass"/>
+  <img src="https://img.shields.io/badge/Udemy-Web_Development_Bootcamp-007ACC?style=flat-square&logo=udemy&logoColor=white" alt="Web Dev Bootcamp"/>
+</p>
 
 ---
 
-## 🚀 9. Coding Profiles Section
+## 🚀 8. Coding Profiles Section
 
 <div align="center">
 
@@ -223,7 +222,7 @@ An enterprise-grade specialized desktop application architected to manage heavy 
 
 ---
 
-## 📊 10. GitHub Analytics Section
+## 📊 9. GitHub Analytics Section
 
 <div align="center">
   <table border="0">
@@ -245,7 +244,7 @@ An enterprise-grade specialized desktop application architected to manage heavy 
 
 ---
 
-## 🏆 11. GitHub Trophies Section
+## 🏆 10. GitHub Trophies Section
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mohityadav24952-ai&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
@@ -253,7 +252,7 @@ An enterprise-grade specialized desktop application architected to manage heavy 
 
 ---
 
-## 📈 12. Contribution Activity Section
+## 📈 11. Contribution Activity Section
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohityadav24952-ai&theme=tokyonight&bg_color=0D1117&hide_border=true" width="100%" alt="Contribution Graph" />
@@ -261,31 +260,33 @@ An enterprise-grade specialized desktop application architected to manage heavy 
 
 ---
 
-## 🐍 13. Contribution Snake Section
+## 🐍 12. Contribution Snake Section
 
 <div align="center">
   <img src="https://github.com/mohityadav24952-ai/mohityadav24952-ai/blob/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake" />
 </div>
 
+> ⚠️ Note: snake animation requires the `platane/snk` GitHub Action set up on your profile repo (`mohityadav24952-ai/mohityadav24952-ai`) so it commits to the `output` branch automatically.
+
 ---
 
-## 🎯 14. Current Focus Section
+## 🎯 13. Current Focus Section
 
 ```yaml
 🔬 Learning:
    - Deep distributed execution caching architectures and high-concurrency systems
    - Native Rust compilation optimization modules for heavy server workloads
 🛠️ Building:
-   - Expanding Vibecode Local AI parsing paradigms to include multi-agent support
+   - Expanding Vibecode Editor with multi-stack template support
 🚀 Exploring:
    - Large-scale edge data storage frameworks and zero-trust proxy setups
 💼 Open To:
-   - High-caliber full-stack engineering contracts & advanced AI development initiatives
+   - High-caliber full-stack engineering roles & contract opportunities
 ```
 
 ---
 
-## 🤝 15. Connect Section
+## 🤝 14. Connect Section
 
 <div align="center">
 
@@ -298,7 +299,7 @@ An enterprise-grade specialized desktop application architected to manage heavy 
 
 ---
 
-## 📜 16. Footer Section
+## 📜 15. Footer Section
 
 <div align="center">
 
