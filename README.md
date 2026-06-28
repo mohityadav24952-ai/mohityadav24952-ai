@@ -254,12 +254,15 @@ An enterprise-grade specialized desktop application architected to manage heavy 
 
 ---
 
-## 📈 11. Coding Performance & Activity
+## 📈 11. Contribution Activity Section
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohityadav24952-ai&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" alt="Detailed Stats" />
-  <br>
-  <p><i>Statistical distribution of commits and repository contributions.</i></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohityadav24952-ai&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" alt="Contribution Stats" />
+  
+  <br><br>
+  
+  <!-- Yeh Metrics API aapke contributions ko categorized view mein dikhayega -->
+  <img src="https://metrics.lecoq.io/mohityadav24952-ai?template=terminal&base=header,activity,community,repositories,metadata&activity=yes&activity_limit=10&activity_days=365&activity_filter=all" alt="Activity Metrics" />
 </div>
 
 ## 🐍 12. Contribution Snake Section
