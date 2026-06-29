@@ -230,14 +230,16 @@ Currently, I'm focused on improving my DSA skills, learning modern full-stack te
 
 <td>
 
-<img height="170" src="https://github-readme-streak-stats.demolab.com?user=mohityadav24952-ai&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=mohityadav24952-ai&theme=tokyonight&hide_border=true"/>
 
 </td>
 
 </tr>
 </table>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohityadav24952-ai&layout=compact&theme=tokyonight&hide_border=true"/>
+<br>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohityadav24952-ai&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
