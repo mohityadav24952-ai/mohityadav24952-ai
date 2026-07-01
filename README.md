@@ -106,6 +106,13 @@ Currently, I'm focused on improving my DSA skills, learning modern full-stack te
 ---
 
 # 🚀 Featured Projects
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **CodeForge AI** | AI-Powered Cloud Development Environment | Next.js • TypeScript • Tailwind CSS • Node.js |
+| **VeloxRide** | Real-Time Ride Booking Platform | React • Node.js • Express • MongoDB |
+| **InterviewFlow** | AI-Powered Technical Interview Platform | Next.js • TypeScript • AI • Tailwind CSS |
+
+---
 ---
 
 # 💼 Education
