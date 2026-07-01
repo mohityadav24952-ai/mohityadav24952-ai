@@ -246,7 +246,7 @@ Currently, I'm focused on improving my DSA skills, learning modern full-stack te
 
 <br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohityadav24952-ai&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com/?user=mohityadav24952-ai&theme=tokyonight&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
 
 </div>
 
