@@ -252,15 +252,7 @@ Currently, I'm focused on improving my DSA skills, learning modern full-stack te
 
 ---
 
-# 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mohityadav24952-ai&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-bg=true"/>
-
-</div>
-
----
 
 # 📈 Contribution Graph
 
