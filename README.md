@@ -122,7 +122,7 @@ Currently, I'm focused on improving my DSA skills, learning modern full-stack te
 **Graphic Era Deemed to be University**  
 **2024 – 2028**
 
-- 🎯 Current CGPA: **9.0+**
+- 🎯 Current CGPA: **8.9+**
 - 📚 Relevant Coursework:
   - Data Structures & Algorithms
   - Object-Oriented Programming (C++ & Java)
@@ -182,7 +182,7 @@ Currently, I'm focused on improving my DSA skills, learning modern full-stack te
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-300%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/FOmohit_21)
+[![LeetCode](https://img.shields.io/badge/LeetCode-400%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/FOmohit_21)
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-6⭐%20Problem%20Solving-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/mohityadav24952)
 
@@ -198,7 +198,7 @@ Currently, I'm focused on improving my DSA skills, learning modern full-stack te
 
 | Platform | Progress |
 | :--- | :--- |
-| 💛 **LeetCode** | **300+ Problems Solved** |
+| 💛 **LeetCode** | **400+ Problems Solved** |
 | 💚 **HackerRank** | **6⭐ Problem Solving** |
 | 💙 **C++** | **5⭐** |
 | 💛 **Python** | **5⭐** |
