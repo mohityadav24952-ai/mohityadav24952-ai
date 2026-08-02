@@ -140,9 +140,9 @@ Currently, I'm focused on improving my DSA skills, learning modern full-stack te
 | :--- | :--- |
 | 🛡️ **National Defence Academy** | Secured **AIR 269** in the NDA Examination (153 Course). |
 | ✈️ **Services Selection Board** | Recommended by **SSB** for the Air Force Flying Branch after clearing all selection stages including CPSS. |
-| 💻 **LeetCode** | Solved **300+** Data Structures & Algorithms problems. |
+| 💻 **LeetCode** | Solved **400+** Data Structures & Algorithms problems. |
 | ⭐ **HackerRank** | **6⭐ Problem Solving**, **5⭐ C++**, **5⭐ Python**. |
-| 🎓 **Academics** | Maintaining a **9.0+ CGPA** in B.Tech CSE. |
+| 🎓 **Academics** | Maintaining a **8.9+ CGPA** in B.Tech CSE. |
 
 </div>
 
