@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Mohit Kumar Yadav
 
-### B.Tech CSE Student • Full Stack Developer • DSA Enthusiast
+### B.Tech CSE Student • Full Stack Developer • DSA Enthusiast • AI Maverick
 
 ```cpp
 while (!success) {
@@ -16,19 +16,19 @@ while (!success) {
 ```
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Problem+Solver;DSA+Enthusiast;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Problem+Solver;DSA+Enthusiast;AI+Enthusiast;Always+Learning+Something+New" />
 </a>
 
 ---
 
-[![B.Tech CSE](https://img.shields.io/badge/B.Tech-Computer%20Science%20Engineering-8A2BE2?style=flat-square&logo=graduation-cap&logoColor=white)]()
-[![Location](https://img.shields.io/badge/Location-Dehradun%2C%20India-blue?style=flat-square&logo=googlemaps&logoColor=white)]()
+[![B.Tech CSE](https://img.shields.io/badge/B.Tech-Computer%20Science%20Engineering-8A2BE2?style=flat-square\&logo=graduation-cap\&logoColor=white)]()
+[![Location](https://img.shields.io/badge/Location-Dehradun%2C%20India-blue?style=flat-square\&logo=googlemaps\&logoColor=white)]()
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-kumar-yadav-177642350/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohityadav24952@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mohit-kumar-yadav-177642350/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mohityadav24952@gmail.com)
 
-[![Followers](https://img.shields.io/github/followers/mohityadav24952-ai?style=flat-square&color=5A189A)](https://github.com/mohityadav24952-ai)
-[![Stars](https://img.shields.io/github/stars/mohityadav24952-ai?style=flat-square&color=7B2CBF)](https://github.com/mohityadav24952-ai)
+[![Followers](https://img.shields.io/github/followers/mohityadav24952-ai?style=flat-square\&color=5A189A)](https://github.com/mohityadav24952-ai)
+[![Stars](https://img.shields.io/github/stars/mohityadav24952-ai?style=flat-square\&color=7B2CBF)](https://github.com/mohityadav24952-ai)
 
 </div>
 
@@ -42,10 +42,10 @@ I enjoy building practical software projects that strengthen my understanding of
 
 Currently, I'm focused on improving my DSA skills, learning modern full-stack technologies, and strengthening my knowledge of core Computer Science subjects including **DBMS**, **Operating Systems**, and **Computer Networks**.
 
-- 💻 Building Full Stack Projects
-- 📚 Solving DSA Problems Regularly
-- 🌱 Learning Modern Web Development
-- 🤝 Open to Software Engineering Internships
+* 💻 Building Full Stack Projects
+* 📚 Solving DSA Problems Regularly
+* 🌱 Learning Modern Web Development
+* 🤝 Open to Software Engineering Internships
 
 ---
 
@@ -106,29 +106,32 @@ Currently, I'm focused on improving my DSA skills, learning modern full-stack te
 ---
 
 # 🚀 Featured Projects
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **CodeForge AI** | AI-Powered Cloud Development Environment | Next.js • TypeScript • Tailwind CSS • Node.js |
-| **VeloxRide** | Real-Time Ride Booking Platform | React • Node.js • Express • MongoDB |
-| **InterviewFlow** | AI-Powered Technical Interview Platform | Next.js • TypeScript • AI • Tailwind CSS |
+
+| Project           | Description                              | Tech Stack                                    |
+| :---------------- | :--------------------------------------- | :-------------------------------------------- |
+| **CodeForge AI**  | AI-Powered Cloud Development Environment | Next.js • TypeScript • Tailwind CSS • Node.js |
+| **VeloxRide**     | Real-Time Ride Booking Platform          | React • Node.js • Express • MongoDB           |
+| **InterviewFlow** | AI-Powered Technical Interview Platform  | Next.js • TypeScript • AI • Tailwind CSS      |
 
 ---
+
 ---
 
 # 💼 Education
 
 ### 🎓 B.Tech in Computer Science Engineering
 
-**Graphic Era Deemed to be University**  
+**Graphic Era Deemed to be University**
 **2024 – 2028**
 
-- 🎯 Current CGPA: **8.9+**
-- 📚 Relevant Coursework:
-  - Data Structures & Algorithms
-  - Object-Oriented Programming (C++ & Java)
-  - Database Management Systems
-  - Operating Systems
-  - Computer Networks
+* 🎯 Current CGPA: **8.9+**
+* 📚 Relevant Coursework:
+
+  * Data Structures & Algorithms
+  * Object-Oriented Programming (C++ & Java)
+  * Database Management Systems
+  * Operating Systems
+  * Computer Networks
 
 ---
 
@@ -136,13 +139,14 @@ Currently, I'm focused on improving my DSA skills, learning modern full-stack te
 
 <div align="center">
 
-| Achievement | Details |
-| :--- | :--- |
-| 🛡️ **National Defence Academy** | Secured **AIR 269** in the NDA Examination (153 Course). |
-| ✈️ **Services Selection Board** | Recommended by **SSB** for the Air Force Flying Branch after clearing all selection stages including CPSS. |
-| 💻 **LeetCode** | Solved **400+** Data Structures & Algorithms problems. |
-| ⭐ **HackerRank** | **6⭐ Problem Solving**, **5⭐ C++**, **5⭐ Python**. |
-| 🎓 **Academics** | Maintaining a **8.9+ CGPA** in B.Tech CSE. |
+| Achievement                      | Details                                                                                                    |
+| :------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| 🛡️ **National Defence Academy** | Secured **AIR 269** in the NDA Examination (153 Course).                                                   |
+| ✈️ **Services Selection Board**  | Recommended by **SSB** for the Air Force Flying Branch after clearing all selection stages including CPSS |
+| 💻 **LeetCode**                  | Solved **400+** Data Structures & Algorithms problems                                                    |
+| 🍴 **CodeChef**                  | **4⭐ Rating** (1800+)                                                                                           |
+| ⭐ **HackerRank**                 | **6⭐ Problem Solving**, **5⭐ C++**, **5⭐ Python**                                                      |
+| 🎓 **Academics**                 | Maintaining a **8.9+ CGPA** in B.Tech CSE                                                                |
 
 </div>
 
@@ -182,13 +186,15 @@ Currently, I'm focused on improving my DSA skills, learning modern full-stack te
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-400%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/FOmohit_21)
+[![LeetCode](https://img.shields.io/badge/LeetCode-400%2B%20Solved-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/FOmohit_21)
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-6⭐%20Problem%20Solving-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/mohityadav24952)
+[![CodeChef](https://img.shields.io/badge/CodeChef-4⭐%20Rating-5B4638?style=for-the-badge\&logo=codechef\&logoColor=white)](https://www.codechef.com/users/chef_mohit)
 
-[![C++](https://img.shields.io/badge/C%2B%2B-5⭐-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://hackerrank.com/mohityadav24952)
+[![HackerRank](https://img.shields.io/badge/HackerRank-6⭐%20Problem%20Solving-2EC866?style=for-the-badge\&logo=hackerrank\&logoColor=white)](https://hackerrank.com/mohityadav24952)
 
-[![Python](https://img.shields.io/badge/Python-5⭐-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://hackerrank.com/mohityadav24952)
+[![C++](https://img.shields.io/badge/C%2B%2B-5⭐-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)](https://hackerrank.com/mohityadav24952)
+
+[![Python](https://img.shields.io/badge/Python-5⭐-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](https://hackerrank.com/mohityadav24952)
 
 </div>
 
@@ -196,12 +202,13 @@ Currently, I'm focused on improving my DSA skills, learning modern full-stack te
 
 ### 📈 Problem Solving Journey
 
-| Platform | Progress |
-| :--- | :--- |
-| 💛 **LeetCode** | **400+ Problems Solved** |
-| 💚 **HackerRank** | **6⭐ Problem Solving** |
-| 💙 **C++** | **5⭐** |
-| 💛 **Python** | **5⭐** |
+| Platform          | Progress                 |
+| :---------------- | :----------------------- |
+| 💛 **LeetCode**   | **400+ Problems Solved** |
+| 🟤 **CodeChef**   | **4⭐ Rating**            |
+| 💚 **HackerRank** | **6⭐ Problem Solving**   |
+| 💙 **C++**        | **5⭐**                   |
+| 💛 **Python**     | **5⭐**                   |
 
 </div>
 
@@ -213,15 +220,16 @@ Currently, I'm focused on improving my DSA skills, learning modern full-stack te
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-kumar-yadav-177642350)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mohit-kumar-yadav-177642350)
 
-[![Gmail](https://img.shields.io/badge/Gmail-mohityadav24952%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohityadav24952@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-mohityadav24952%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mohityadav24952@gmail.com)
 
-[![GitHub](https://img.shields.io/badge/GitHub-mohityadav24952--ai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohityadav24952-ai)
+[![GitHub](https://img.shields.io/badge/GitHub-mohityadav24952--ai-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/mohityadav24952-ai)
 
 </div>
 
 ---
+
 # 📊 GitHub Analytics
 
 <div align="center">
@@ -231,13 +239,13 @@ Currently, I'm focused on improving my DSA skills, learning modern full-stack te
 
 <td>
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohityadav24952-ai&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohityadav24952-ai&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
 
 </td>
 
 <td>
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohityadav24952-ai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohityadav24952-ai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </td>
 
@@ -252,13 +260,11 @@ Currently, I'm focused on improving my DSA skills, learning modern full-stack te
 
 ---
 
-
-
 # 📈 Contribution Graph
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohityadav24952-ai&theme=tokyonight&bg_color=0D1117&hide_border=true"/>
+<img width="100%" src="https://github-contributions.vercel.app/mohityadav24952-ai.svg"/>
 
 </div>
 
@@ -278,7 +284,7 @@ Currently, I'm focused on improving my DSA skills, learning modern full-stack te
 
 <div align="center">
 
-> **"Simplicity is a great virtue, but it requires hard work to achieve it."**  
+> **"Simplicity is a great virtue, but it requires hard work to achieve it."**
 > — *Edsger W. Dijkstra*
 
 </div>
