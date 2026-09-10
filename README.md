@@ -16,7 +16,7 @@ while (!success) {
 ```
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Problem+Solver;DSA+Enthusiast;AI+Enthusiast;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Problem+Solver;DSA+Enthusiast;AI+Maverick;Always+Learning+Something+New" />
 </a>
 
 ---
